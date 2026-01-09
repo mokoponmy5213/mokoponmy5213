@@ -1,7 +1,7 @@
 ![Cover Image](https://github.com/mokoponmy5213/mokoponmy5213/blob/main/Gemini_Generated_Image_jnf2tejnf2tejnf2.png?raw=true)
 
 
-## Hi there 👋
+## Welcome to the club 👋
 
 <!--
 **mokoponmy5213/mokoponmy5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
